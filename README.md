@@ -1,7 +1,4 @@
 
-> FreshFoods is a online food & grocery delivery service app built with Django with Esewa payment integration.
-
-We have used ``Faker`` to generate fake data automatically.
 
 ## Getting Started  
 
